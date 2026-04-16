@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+spacy
+lime
+shap
+python-multipart
+duckduckgo-search
+wikipedia
+easyocr
+Pillow
+PyPDF2
+python-docx
+torch
